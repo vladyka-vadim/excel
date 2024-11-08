@@ -1,0 +1,6 @@
+webpack
+    babel
+    scss
+    2 modes
+      - dev (DevServer, SourceMap, Not Minified JS & CSS)
+      - prod (Minified Code)
